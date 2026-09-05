@@ -4,6 +4,13 @@
 
 [→ English](README.md)
 
+## 本分支维护者联系方式
+
+以下仅为本分支维护者的联系方式，不代表上游项目或模板作者；原有作者署名与适用的上游使用条款保持不变。
+
+- X：[@superwang](https://x.com/superwang)
+- Telegram：[@lincwang](https://t.me/lincwang)
+
 ---
 
 ## 项目名字候选（未定）

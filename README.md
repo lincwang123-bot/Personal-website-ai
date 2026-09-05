@@ -4,6 +4,13 @@
 
 [→ 中文版](README.zh.md)
 
+## Fork maintainer contact
+
+These are the contacts for this fork's maintainer, not the upstream project or template authors. Existing author credits and applicable upstream terms remain unchanged.
+
+- X: [@superwang](https://x.com/superwang)
+- Telegram: [@lincwang](https://t.me/lincwang)
+
 ---
 
 ## Project Name Candidates (not finalized)
